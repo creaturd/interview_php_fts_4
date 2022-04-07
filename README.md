@@ -1,4 +1,4 @@
-# interview_php_fts_0
+# interview_php_fts_1
 
 1. Создайте fork репозитория https://github.com/creaturd/interview_php_fts_1 в своём аккаунте на github.com
 2. Выполните следующие задания
