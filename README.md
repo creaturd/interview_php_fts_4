@@ -33,4 +33,4 @@
 Напишите функцию, которая находит и выводит на экран количество всех записей, касающихся вируса, вызывающего Covid-19 в таблице genome.
 
 ## 3. Pull request
-Создайте pull request в ветку master репозитория https://github.com/creaturd/interview_php_fts_1.
+Создайте pull request в ветку master репозитория https://github.com/creaturd/interview_php_fts_2.
