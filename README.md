@@ -1,7 +1,7 @@
-# Тестовое задание interview_php_fts_1
+# Тестовое задание interview_php_fts_2
 
 ## 1. Создайте fork репозитория
-Создайте fork репозитория https://github.com/creaturd/interview_php_fts_1 в своём аккаунте на github.com
+Создайте fork репозитория https://github.com/creaturd/interview_php_fts_2 в своём аккаунте на github.com
 
 ## 2. Выполните следующие задания
 
