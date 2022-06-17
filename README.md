@@ -1,7 +1,7 @@
-# Тестовое задание interview_php_fts_2
+# Тестовое задание interview_php_fts_4
 
 ## 1. Создайте fork репозитория
-Создайте fork репозитория https://github.com/creaturd/interview_php_fts_2 в своём аккаунте на github.com
+Создайте fork репозитория https://github.com/creaturd/interview_php_fts_4 в своём аккаунте на github.com
 
 ## 2. Выполните следующие задания
 
@@ -33,4 +33,4 @@
 Напишите функцию, которая находит и выводит на экран количество всех записей, касающихся вируса, вызывающего Covid-19 в таблице genome.
 
 ## 3. Pull request
-Создайте pull request в ветку master репозитория https://github.com/creaturd/interview_php_fts_2.
+Создайте pull request в ветку master репозитория https://github.com/creaturd/interview_php_fts_4.
